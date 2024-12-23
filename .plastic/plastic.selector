@@ -1,0 +1,4 @@
+repository "ColorFur@Allhar_Studio@cloud"
+  path "/"
+    br "/main"
+    co "/main"

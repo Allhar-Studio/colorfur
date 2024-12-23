@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FxTemporaire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - BG
+  - Ground
+  - Player
+  - Bullet
+  - Camera
+  - Pickups
+  - Look
+  - Test
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG 4
+    uniqueID: 551043287
+    locked: 0
+  - name: BG 3
+    uniqueID: 257446183
+    locked: 0
+  - name: BG 2
+    uniqueID: 530165409
+    locked: 0
+  - name: BG 1
+    uniqueID: 1894716309
+    locked: 0
+  - name: MG
+    uniqueID: 1029398865
+    locked: 0
+  - name: Ground
+    uniqueID: 1753766829
+    locked: 0
+  - name: Player
+    uniqueID: 431995023
+    locked: 0
+  - name: FG 1
+    uniqueID: 617895975
+    locked: 0
+  - name: FG 2
+    uniqueID: 1274621213
+    locked: 0
